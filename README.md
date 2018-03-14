@@ -1,0 +1,1 @@
+Course notes and excercise files for the [Deep Javascript Foundations](https://frontendmasters.com/courses/javascript-foundations/) course on Frontend Masters.
